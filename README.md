@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" alt="Estado">
 <img src="https://img.shields.io/badge/Metodolog%C3%ADa-Kanban-blue?style=for-the-badge" alt="Metodología">
-<img src="https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge" alt="Licencia">
+<img src="https://img.shields.io/badge/Licencia-GPL-green?style=for-the-badge" alt="Licencia">
 <img src="https://img.shields.io/badge/Presupuesto-%240.00%20USD-lightgrey?style=for-the-badge" alt="Presupuesto">
 
 **Plataforma centralizada para el registro, seguimiento y resolución de fallas en equipos de climatización.**
