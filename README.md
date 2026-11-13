@@ -67,15 +67,3 @@ Para mantener el orden del código entre los 4 integrantes, se aplica el siguien
 
 ---
 
-## 📁 6. Estructura del Repositorio
-
-```text
-sistema-mantenimiento-ac/
-├── docs/                                  # Diagramas ER, capturas del tablero Kanban e informes
-├── frontend/                              # Vistas HTML/CSS/JS (Formulario de reporte y Dashboard)
-├── backend/                               # Lógica del servidor, controladores y rutas API
-├── database/                              # Scripts SQL de creación de tablas y datos de prueba
-├── informe_proyecto_mantenimiento_ac.pdf  # Informe técnico formal del proyecto
-├── tablero_kanban_mantenimiento_ac.xlsx   # Matriz Kanban, cronograma y presupuesto en Excel
-├── LICENSE                                # Licencia de código abierto
-└── README.md                              # Documentación principal del proyecto
