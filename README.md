@@ -46,14 +46,14 @@
 
 ## 4. Tablero Kanban y Planificación de Tareas
 
-> **Nota:** El seguimiento en tiempo real de estas tarjetas se gestiona en la pestaña **[Projects](../../projects)** y en **[Issues](../../issues)** de este repositorio (4 issues activos registrados)[cite: 6].
+> **Nota:** El seguimiento en tiempo real de estas tarjetas se gestiona en la pestaña **[Projects](../../projects)** y en **[Issues](../../issues)** de este repositorio (4 issues activos registrados).
 
 | ID | Integrante | Tiempo | Actividad Asignada | Rama Git | Estado |
 | :---: | :--- | :---: | :--- | :---: | :---: |
 | **#1** | **Kevin Vega** | `3 días` | Configurar repositorio en GitHub (licencia MIT), estructurar ramas (`main`, `dev`) y diseñar el modelo relacional de base de datos (`Equipos`, `Usuarios`, `Reportes`, `Mantenimientos`). | `feature/setup-db` | En Proceso |
-| **#2** | **Daleska Guerrero** | `4 días` | Diseñar prototipos de interfaz (*mockups* en Figma) y programar las vistas del formulario de reporte de fallas y listado de equipos. | `feature/ui-reportes` | Inicio |
-| **#3** | **Lindsay Delgado** | `5 días` | Desarrollar la lógica del servidor (API/CRUD) para creación de reportes, cambio de estados de reparación y filtrado de alertas pendientes. | `feature/api-crud` | Inicio |
-| **#4** | **Cristian Flores** | `4 días` | Implementar el módulo de historial de mantenimiento, ejecutar pruebas de integración y consolidar la documentación técnica. | `feature/historial-docs` | Inicio |
+| **#2** | **Daleska Guerrero** | `8 semanas` | Diseñar prototipos de interfaz (*mockups* en Figma) y programar las vistas del formulario de reporte de fallas y listado de equipos. | `feature/ui-reportes` | Inicio |
+| **#3** | **Lindsay Delgado** | `8 semanas` | Desarrollar la lógica del servidor (API/CRUD) para creación de reportes, cambio de estados de reparación y filtrado de alertas pendientes. | `feature/api-crud` | Inicio |
+| **#4** | **Cristian Flores** | `8 semanas` | Implementar el módulo de historial de mantenimiento, ejecutar pruebas de integración y consolidar la documentación técnica. | `feature/historial-docs` | Inicio |
 
 ---
 
@@ -61,7 +61,7 @@
 
 Para mantener el orden del código entre los 4 integrantes, se aplica el siguiente flujo de trabajo:
 
-1. **Rama `main`:** Contiene únicamente versiones estables y aprobadas del proyecto[cite: 6].
+1. **Rama `main`:** Contiene únicamente versiones estables y aprobadas del proyecto.
 2. **Rama `dev`:** Rama de integración donde se unen los avances de cada integrante antes de pasar a producción.
 3. **Ramas `feature/*`:** Cada integrante trabaja en su propia rama según la tabla Kanban y abre un **Pull Request (PR)** al finalizar su tarea para revisión del equipo.
 
